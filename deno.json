@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "test:async-promise-delay": "deno test async/promise-delay/",
+    "test:dom-unique-tags": "deno test dom/unique-tags/",
+    "test:algo-binary-search": "deno test algo/binary-search/"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@^1.0.0",
+    "deno-dom": "jsr:@b-fuze/deno-dom"
+  }
+}
