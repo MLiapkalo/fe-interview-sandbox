@@ -1,0 +1,6 @@
+{
+  "setupTasks": [
+    "npm i -g deno"
+  ],
+  "tasks": {}
+}
