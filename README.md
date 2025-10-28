@@ -46,6 +46,7 @@ Tests fundamental algorithmic thinking for frontend development.
 |---------|-------------|---------|
 | binary-search | Search sorted array efficiently | `deno task test:algo-binary-search` |
 | group-by | Group array items by property values | `deno task test:algo-group-by` |
+| flatten-array | Flatten nested array structure | `deno task test:algo-flatten-array` |
 
 ## Problem Structure
 
