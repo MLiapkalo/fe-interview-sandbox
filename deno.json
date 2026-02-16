@@ -1,6 +1,7 @@
 {
   "tasks": {
     "test:async-promise-delay": "deno test async/promise-delay/",
+    "test:async-promise-retry": "deno test async/promise-retry/",
     "test:dom-unique-tags": "deno test dom/unique-tags/",
     "test:algo-binary-search": "deno test algo/binary-search/",
     "test:algo-group-by": "deno test algo/group-by/",

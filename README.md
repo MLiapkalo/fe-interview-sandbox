@@ -31,6 +31,7 @@ Tests knowledge of Promises, async/await, and JavaScript timing.
 | Problem | Description | Command |
 |---------|-------------|---------|
 | promise-delay | Create delayed Promise resolution | `deno task test:async-promise-delay` |
+| promise-retry | Retry failed Promises with attempts | `deno task test:async-promise-retry` |
 
 ### DOM Manipulation
 Tests DOM traversal and manipulation using deno-dom.
