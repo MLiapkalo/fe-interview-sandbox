@@ -5,7 +5,8 @@
     "test:dom-unique-tags": "deno test dom/unique-tags/",
     "test:algo-binary-search": "deno test algo/binary-search/",
     "test:algo-group-by": "deno test algo/group-by/",
-    "test:algo-flatten-array": "deno test algo/flatten-array/"
+    "test:algo-flatten-array": "deno test algo/flatten-array/",
+    "test:fp-memo": "deno test fp/memo/"
   },
   "imports": {
     "@std/assert": "jsr:@std/assert@^1.0.0",

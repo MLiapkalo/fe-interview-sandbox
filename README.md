@@ -49,6 +49,13 @@ Tests fundamental algorithmic thinking for frontend development.
 | group-by | Group array items by property values | `deno task test:algo-group-by` |
 | flatten-array | Flatten nested array structure | `deno task test:algo-flatten-array` |
 
+### Functional Programming
+Tests functional programming patterns common in modern frontend development.
+
+| Problem | Description | Command |
+|---------|-------------|---------|
+| memo | Cache function results for performance | `deno task test:fp-memo` |
+
 ## Problem Structure
 
 Each problem contains:
