@@ -48,6 +48,15 @@ Tests fundamental algorithmic thinking for frontend development.
 | binary-search | Search sorted array efficiently | `deno task test:algo-binary-search` |
 | group-by | Group array items by property values | `deno task test:algo-group-by` |
 | flatten-array | Flatten nested array structure | `deno task test:algo-flatten-array` |
+| string-compress | Run-length encoding compression | `deno task test:algo-string-compress` |
+| deep-clone | Deep clone objects and arrays immutably | `deno task test:algo-deep-clone` |
+
+### Design Patterns
+Tests knowledge of common design patterns in frontend development.
+
+| Problem | Description | Command |
+|---------|-------------|---------|
+| event-emitter | Implement pub/sub event system | `deno task test:patterns-event-emitter` |
 
 ### Functional Programming
 Tests functional programming patterns common in modern frontend development.

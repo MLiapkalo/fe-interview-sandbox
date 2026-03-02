@@ -6,6 +6,9 @@
     "test:algo-binary-search": "deno test algo/binary-search/",
     "test:algo-group-by": "deno test algo/group-by/",
     "test:algo-flatten-array": "deno test algo/flatten-array/",
+    "test:algo-string-compress": "deno test algo/string-compress/",
+    "test:algo-deep-clone": "deno test algo/deep-clone/",
+    "test:patterns-event-emitter": "deno test patterns/event-emitter/",
     "test:fp-memo": "deno test fp/memo/"
   },
   "imports": {
