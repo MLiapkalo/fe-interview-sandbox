@@ -8,8 +8,8 @@
     "test:algo-flatten-array": "deno test algo/flatten-array/",
     "test:algo-string-compress": "deno test algo/string-compress/",
     "test:algo-deep-clone": "deno test algo/deep-clone/",
-    "test:fp-memo": "deno test fp/memo/",
     "test:patterns-event-emitter": "deno test patterns/event-emitter/",
+    "test:fp-memo": "deno test fp/memo/"
   },
   "imports": {
     "@std/assert": "jsr:@std/assert@^1.0.0",

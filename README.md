@@ -58,13 +58,6 @@ Tests knowledge of common design patterns in frontend development.
 |---------|-------------|---------|
 | event-emitter | Implement pub/sub event system | `deno task test:patterns-event-emitter` |
 
-### Design Patterns
-Tests knowledge of common design patterns in frontend development.
-
-| Problem | Description | Command |
-|---------|-------------|---------|
-| event-emitter | Implement pub/sub event system | `deno task test:patterns-event-emitter` |
-
 ### Functional Programming
 Tests functional programming patterns common in modern frontend development.
 
