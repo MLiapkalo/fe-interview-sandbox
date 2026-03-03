@@ -9,6 +9,8 @@ Problems are organized into categories based on frontend development skills:
 - **async/** - Tests knowledge of async/await, Promises, micro and macro tasks
 - **dom/** - Working with DOM manipulation and browser APIs
 - **algo/** - Fundamental algorithm problems relevant to frontend development
+- **patterns/** - Common design patterns used in frontend applications
+- **fp/** - Functional programming patterns and immutability
 
 ## Directory Structure
 ```
